@@ -1,1 +1,1 @@
-# loan-prediction-model
+Loan eligibility prediction using machine learning models.
